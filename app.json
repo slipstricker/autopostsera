@@ -9,7 +9,7 @@
     "frisdaybot",
     "productsivity"
   ],
-  "repository": "https://github.com/slipstricker/autopostsera-",
+  "repository": "https://github.com/slipstricker/autopostsera",
   "website": "t.me/frasdidayot",
   "success_url": "t.me/FridasdayOT",
   "stack": "container",
@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Your Upstream URL HERE. If You're Beginner, Don't Change This.",
-      "value": "https://github.com/slipstricker/autopostsera-",
+      "value": "https://github.com/slipstricker/autopostsera",
       "required": false
     },
     "BOT_TOKEN": {
