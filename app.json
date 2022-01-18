@@ -59,7 +59,7 @@
     },
     "TZ": {
       "description": "Your Time Zone",
-      "value": "America/Sao_Paulo
+      "value": "America/Sao_Paulo"
     },
     "STRINGSESSION": {
       "description": "String Session, Run string_gen.py to get String Session.",
